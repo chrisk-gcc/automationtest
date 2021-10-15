@@ -1,0 +1,22 @@
+{
+  "name": "automationtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisk-gcc/automationtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisk-gcc/automationtest/issues"
+  },
+  "homepage": "https://github.com/chrisk-gcc/automationtest#readme",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
